@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Whisker DE
+Comment=The Whisker DE Desktop
+Exec=sh -c "cd $(dirname %k) && ./Whisker-DE"
+Terminal=false
+Type=Application
+Categories=Utility;Application;
